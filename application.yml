@@ -1,0 +1,11 @@
+srping:
+   profiles:
+       active: -dev
+---
+srping:
+   profiles: dev
+       application:
+           name:lhw-dev
+server:
+   port: 8001
+
